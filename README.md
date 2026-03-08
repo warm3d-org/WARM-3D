@@ -40,8 +40,7 @@ pip install -r requirements.txt
 1. Download the TUMTraf A9 Highway Dataset:
    - Visit [TUMTraf Dataset Registration Page](https://a9-dataset.innovation-mobility.com/register)
    - Register and download the dataset
-   - TUMTraffic Synthetic (for training) 🎮
-   - TUMTraffic Intersection (for evaluation) 🚦
+   - **TUMTraffic Synthetic** (updated): contains both training and inference splits 🎮
    - For more information about the dataset, visit [TUMTraf Dataset Page](https://innovation-mobility.com/en/project-providentia/a9-dataset/)
 
 <div align="center">
